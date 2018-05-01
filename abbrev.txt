@@ -37,10 +37,10 @@ GdO - Savinelli Giubileo d'Oro
 GE - MacBaren Golden Extra
 GH - Gawith, Hoggarth Tobacco Company
 GLP - G.L. Pease Tobacco
-H&H - Half and Half tobacco, or Hearth & Home, a P&C house blend
+H&H - Half and Half tobacco, or Hearth and Home, a P&C house blend
 HB - C&D Haunted Bookshop
 HCA - Hans Christian Anderson, a line of pipes made by Stanwell Pipes
-HOTW - Rattray's Hal o' the Wind
+HOTW - Rattray's Hal o' the Wynd
 HOW - House of Windsor
 HUDC - HU Director's Cut
 KK - GH Kendal Kentucky
@@ -60,7 +60,7 @@ ODFRR - Old Dark Fired Ready Rubbed
 OG - Rattray's Old Gowrie
 OGS - Orlik's Golden Sliced
 OJK - C&D Old Joe Krantz
-OTC - Over The Counter ("drugstore tobacco")
+OTC - Over the Counter ("drugstore tobacco")
 P&C - pipesandcigars.com, an online retailer
 P&W or PW - Pipeworks & Wilke
 PA - Prince Albert tobacco
